@@ -7,7 +7,7 @@
 - **Latest release**: `v7.40.4` (2026-08-14)
 - **Last commit**: 2026-09-04
 - **License**: MIT
-- **Stars**: 18933 · **Forks**: 2454 · **Open issues**: 1036 · **Contributors**: 36
+- **Stars**: 18945 · **Forks**: 2454 · **Open issues**: 1040 · **Contributors**: 36
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/Personal_AI_Infrastructure> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:15:27Z._
+_Last regenerated: 2026-09-09T03:41:51Z._
