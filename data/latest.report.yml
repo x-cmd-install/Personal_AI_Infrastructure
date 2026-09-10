@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.40.4"
   latestRelease: "v7.40.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:39:43Z
+  collectedAt: 2026-09-10T15:50:07Z
 timeline:
   created: 2025-09-08
   lastCommit: 2026-09-04
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 
 popularity:
-  star: 18968
+  star: 18971
   watcher: 213
-  fork: 2456
+  fork: 2459
   release: 28
   contributor: 36
-  pullRequest: 757
+  pullRequest: 760
   issue: 1043
 language:
   TypeScript: 6871525
@@ -85,13 +85,13 @@ recent:
 total:
   release: 28
   mergedPR: 49
-  openPR: 3
+  openPR: 6
   closedIssue: 1018
   openIssue: 25
   commit: 717
 ---
 path: /home/runner/.x-repo/github.com/danielmiessler/Personal_AI_Infrastructure
-collectedAt: 2026-09-10T03:40:19Z
+collectedAt: 2026-09-10T15:50:37Z
 loc:
   TypeScript:
     code: 110636
