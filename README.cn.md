@@ -37,11 +37,11 @@ x install Personal_AI_Infrastructure
 
 ## 流行度
 
-- **Star**: 18,978 · **Fork**: 2,460 · **开放 issue**: 1,049 · **贡献者**: 36
+- **Star**: 18,984 · **Fork**: 2,464 · **开放 issue**: 1,052 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 49 · **开放 PR**: 7 · **已关闭 issue**: 1018 · **开放 issue**: 31 · **提交数**: 717
+- **发布数**: 28 · **已合并 PR**: 49 · **开放 PR**: 11 · **已关闭 issue**: 1018 · **开放 issue**: 34 · **提交数**: 717
 
 ## 最近活动
 
@@ -63,4 +63,4 @@ Personal_AI_Infrastructure 的安装元数据由 [x-cmd/install](https://github.
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T03:37:28Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:47:50Z._
