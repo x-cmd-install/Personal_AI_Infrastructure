@@ -12,6 +12,18 @@
 x install Personal_AI_Infrastructure
 ```
 
+## Code insight
+
+Total: **152,114** lines of code across **754** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 110,636 | 23,987 | 13,358 | 564 |
+| Tsx | 25,029 | 1,117 | 2,125 | 126 |
+| Sh | 3,897 | 1,495 | 423 | 18 |
+| Json | 3,798 | 0 | 6 | 39 |
+| Css | 3,501 | 253 | 406 | 7 |
+
 ## Source
 
 - **Upstream**: <https://github.com/danielmiessler/Personal_AI_Infrastructure>
@@ -25,31 +37,22 @@ x install Personal_AI_Infrastructure
 
 ## Popularity
 
-- **Stars**: 18,971 · **Forks**: 2,459 · **Open issues**: 1,043 · **Contributors**: 36
+- **Stars**: 18,977 · **Forks**: 2,460 · **Open issues**: 1,049 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 6 · **Closed issues**: 1018 · **Open issues**: 25 · **Commits**: 717
+- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 7 · **Closed issues**: 1018 · **Open issues**: 31 · **Commits**: 717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 28 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **152,114** lines of code across **754** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 110,636 | 23,987 | 13,358 | 564 |
-| Tsx | 25,029 | 1,117 | 2,125 | 126 |
-| Sh | 3,897 | 1,495 | 423 | 18 |
-| Json | 3,798 | 0 | 6 | 39 |
-| Css | 3,501 | 253 | 406 | 7 |
+| 30d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for Personal_AI_Infrastructure lives in the [x-cmd/install](htt
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:52Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:19:30Z._
