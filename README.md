@@ -37,22 +37,22 @@ Total: **152,114** lines of code across **754** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,995 · **Forks**: 2,465 · **Open issues**: 1,053 · **Contributors**: 36
+- **Stars**: 19,010 · **Forks**: 2,465 · **Open issues**: 1,055 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 21 · **Closed issues**: 1018 · **Open issues**: 35 · **Commits**: 717
+- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 21 · **Closed issues**: 1018 · **Open issues**: 37 · **Commits**: 717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Personal_AI_Infrastructure lives in the [x-cmd/install](htt
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:49:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:57:01Z._
