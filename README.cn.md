@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
+⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 
 ![Personal_AI_Infrastructure](https://repo.x-cmd.io/Personal_AI_Infrastructure.svg?lang=zh)
 
@@ -37,22 +37,22 @@ x install Personal_AI_Infrastructure
 
 ## 流行度
 
-- **Star**: 19,029 · **Fork**: 2,466 · **开放 issue**: 1,060 · **贡献者**: 36
+- **Star**: 19,037 · **Fork**: 2,466 · **开放 issue**: 1,067 · **贡献者**: 36
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 49 · **开放 PR**: 34 · **已关闭 issue**: 1019 · **开放 issue**: 41 · **提交数**: 717
+- **发布数**: 28 · **已合并 PR**: 49 · **开放 PR**: 36 · **已关闭 issue**: 1019 · **开放 issue**: 48 · **提交数**: 717
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 27 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ Personal_AI_Infrastructure 的安装元数据由 [x-cmd/install](https://github.
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T03:54:06Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T03:59:03Z._
