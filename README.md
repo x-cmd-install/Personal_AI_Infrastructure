@@ -4,7 +4,7 @@
 
 ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 
-![Personal_AI_Infrastructure](https://repo.x-cmd.io/Personal_AI_Infrastructure.svg)
+[![x-cmd/install — Personal_AI_Infrastructure Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Personal_AI_Infrastructure.svg)](https://x-cmd.com/install/Personal_AI_Infrastructure)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **152,114** lines of code across **754** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,053 · **Forks**: 2,467 · **Open issues**: 1,068 · **Contributors**: 36
+- **Stars**: 19,065 · **Forks**: 2,470 · **Open issues**: 1,086 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 4 · **Closed issues**: 1060 · **Open issues**: 8 · **Commits**: 717
+- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 5 · **Closed issues**: 1060 · **Open issues**: 26 · **Commits**: 717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 26 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 26 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Personal_AI_Infrastructure lives in the [x-cmd/install](htt
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:46:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:58:40Z._
