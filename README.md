@@ -4,7 +4,7 @@
 
 ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 
-[![x-cmd/install — Personal_AI_Infrastructure Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Personal_AI_Infrastructure.svg)](https://x-cmd.com/install/Personal_AI_Infrastructure)
+[![x-cmd/install — Personal_AI_Infrastructure Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Personal_AI_Infrastructure.svg)](https://x-cmd.com/install/Personal_AI_Infrastructure)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **152,114** lines of code across **754** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,086 · **Forks**: 2,473 · **Open issues**: 1,127 · **Contributors**: 36
+- **Stars**: 19,100 · **Forks**: 2,475 · **Open issues**: 1,136 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 12 · **Closed issues**: 1062 · **Open issues**: 65 · **Commits**: 717
+- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 13 · **Closed issues**: 1063 · **Open issues**: 73 · **Commits**: 717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 26 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Personal_AI_Infrastructure lives in the [x-cmd/install](htt
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:53:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:51:44Z._
