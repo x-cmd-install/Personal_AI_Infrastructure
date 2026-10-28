@@ -14,15 +14,15 @@ x install Personal_AI_Infrastructure
 
 ## Code insight
 
-Total: **152,114** lines of code across **754** files in the top 5 languages.
+Total: **439,780** lines of code across **2170** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 110,636 | 23,987 | 13,358 | 564 |
-| Tsx | 25,029 | 1,117 | 2,125 | 126 |
-| Sh | 3,897 | 1,495 | 423 | 18 |
-| Json | 3,798 | 0 | 6 | 39 |
-| Css | 3,501 | 253 | 406 | 7 |
+| TypeScript | 356,880 | 72,942 | 31,724 | 1663 |
+| Tsx | 39,269 | 1,891 | 3,054 | 176 |
+| Json | 19,808 | 0 | 6 | 219 |
+| Yaml | 10,428 | 1,443 | 974 | 98 |
+| Css | 4,351 | 340 | 426 | 14 |
 
 ## Source
 
@@ -32,27 +32,34 @@ Total: **152,114** lines of code across **754** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v7.40.4` (2026-08-14)
-- **Last commit**: 2026-09-04
+- **Latest**: `v8.761.0` (2026-10-27)
+- **Last commit**: 2026-10-28
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 19,598 · **Forks**: 2,506 · **Open issues**: 1,254 · **Contributors**: 36
+- **Stars**: 19,619 · **Forks**: 2,508 · **Open issues**: 1,259 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 49 · **Open PRs**: 35 · **Closed issues**: 1186 · **Open issues**: 68 · **Commits**: 717
+- **Releases**: 29 · **Merged PRs**: 49 · **Open PRs**: 40 · **Closed issues**: 1186 · **Open issues**: 73 · **Commits**: 719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 29 | 0 | 0 | 0 | 0 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [LifeOS-8.761.0-release.mp4](https://github.com/danielmiessler/Personal_AI_Infrastructure/releases/download/v8.761.0/LifeOS-8.761.0-release.mp4) | 47.4 MiB | `other` |
 
 ## Improve this data
 
@@ -63,4 +70,4 @@ Install metadata for Personal_AI_Infrastructure lives in the [x-cmd/install](htt
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:10:29Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T04:38:57Z._
