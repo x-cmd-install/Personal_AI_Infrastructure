@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 49670026,
       "digest": "sha256:0ff97132b93059e0975ab4ef5eaee3306579780df6522afedde97f38161e7ab8",
-      "download_count": 29,
+      "download_count": 37,
       "created_at": "2026-10-27T23:52:10Z",
       "updated_at": "2026-10-27T23:52:12Z",
       "browser_download_url": "https://github.com/danielmiessler/LifeOS/releases/download/v8.761.0/LifeOS-8.761.0-release.mp4"
