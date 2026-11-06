@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
+⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going.
 
 [![x-cmd/install — Personal_AI_Infrastructure Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Personal_AI_Infrastructure.svg)](https://x-cmd.com/install/Personal_AI_Infrastructure)
 
@@ -33,27 +33,27 @@ Total: **439,780** lines of code across **2170** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v8.761.0` (2026-10-27)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-05
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 19,703 · **Forks**: 2,514 · **Open issues**: 1,425 · **Contributors**: 36
+- **Stars**: 19,717 · **Forks**: 2,513 · **Open issues**: 1,444 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 49 · **Open PRs**: 19 · **Closed issues**: 1270 · **Open issues**: 155 · **Commits**: 719
+- **Releases**: 29 · **Merged PRs**: 49 · **Open PRs**: 13 · **Closed issues**: 1295 · **Open issues**: 149 · **Commits**: 720
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 29 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 29 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for Personal_AI_Infrastructure lives in the [x-cmd/install](htt
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:41:08Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:39:11Z._
